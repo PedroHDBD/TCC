@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+* {
+  font-family: "Lato", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.forumBtn {
+	border: none;
+}
+
+.custom-rounded {
+    border-radius: 0 0 0.375rem 0;
+}
